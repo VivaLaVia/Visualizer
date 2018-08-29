@@ -1,0 +1,1 @@
+"./node_modules/.bin/Visualizer" --paraview "./" --data "./data"
